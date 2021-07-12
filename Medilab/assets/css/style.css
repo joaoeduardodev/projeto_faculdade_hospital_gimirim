@@ -83,10 +83,10 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #1977cc;
-  width: 40px;
-  height: 40px;
-  border-radius: 4px;
+  background: #00E676;
+  width: 55px;
+  height: 55px;
+  border-radius: 30px;
   transition: all 0.4s;
 }
 
@@ -97,8 +97,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .back-to-top:hover {
-  background: #298ce5;
-  color: #fff;
+  background: #00E676;
 }
 
 .back-to-top.active {
@@ -770,7 +769,7 @@ section {
 }
 
 .about .video-box {
-  background: url("../img/about.jpg") center center no-repeat;
+  background: url("../img/img_thumb.jpeg") center center no-repeat;
   background-size: cover;
   min-height: 500px;
 }
@@ -1075,7 +1074,7 @@ section {
   padding: 10px 12px;
 }
 
-.appointment .php-email-form button[type="submit"] {
+button[type="submit"] {
   background: #1977cc;
   border: 0;
   padding: 10px 35px;
@@ -1472,7 +1471,7 @@ section {
   color: #4b7dab;
 }
 
-.contact .info .email, .contact .info .phone {
+.contact .info .email, .contact .info .phone, .contact .info .address {
   margin-top: 40px;
 }
 
