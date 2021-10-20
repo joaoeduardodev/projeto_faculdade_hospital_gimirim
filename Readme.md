@@ -4,3 +4,5 @@
 - HTML
 - CSS
 - JS
+
+O uso do PHP se deu para facilitar o deploy no Heroku
