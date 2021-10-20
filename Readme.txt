@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+#O Projeto consiste em um site, que foi desenvolvido para uma instituição filantropica.
 
-Template Name: Medilab
-Template URL: https://bootstrapmade.com/medilab-free-medical-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+##Tecnologias utilizadas
+- HTML
+- CSS
+- JS
